@@ -1,4 +1,4 @@
-# Horiseon Marketing Agency LLC.
+# Horiseon Social Solution Services
 
 ## Purpose
 A website that offers marketing solutions. 
@@ -13,4 +13,4 @@ https://zimerzel.github.io/Horiseon-Marketing-Site-Dev/
 ## Contribution
 Made by [Zach Imerzel]
 
-### ©️2021 Horiseon Marketing Acency LLC. 
+### ©️2021 Horiseon Social Solution Services, Inc.
