@@ -1,5 +1,3 @@
-# Code Refactor Starter Code
-Repository contains quality README file with description, screenshot, and link to deployed application.
 # Horiseon Marketing Agency LLC.
 
 ## Purpose
