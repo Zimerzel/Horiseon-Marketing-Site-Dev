@@ -1,7 +1,7 @@
 # Horiseon Social Solution Services
 
 ## Purpose
-A website that offers marketing solutions. 
+Offer the highest quality marketing servies around the Austin,TX area. Competitive and affordable is what we strive for and at Horiseon Socail Soultion Services we ensure that our customers some first! Contact us today. 
 
 ## Built With
 * HTML
